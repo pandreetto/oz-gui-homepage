@@ -371,6 +371,7 @@ lib/ember-cli-onedata-common/test-support/unit/utils/bytes-to-string-test.js
 lib/ember-cli-onedata-common/test-support/unit/utils/conflict-ids-test.js
 lib/ember-cli-onedata-common/test-support/unit/utils/safe-element-id-test.js
 lib/ember-cli-onedata-common/test-support/unit/utils/snake-to-camel-test.js
+public/app-config.json
 public/assets/fonts/lato/lato-hairlineitalic/lato-hairlineitalic.eot
 public/assets/fonts/lato/lato-hairlineitalic/lato-hairlineitalic.svg
 public/assets/fonts/lato/lato-hairlineitalic/lato-hairlineitalic.ttf
@@ -391,6 +392,7 @@ public/assets/images/auth-providers/kit.svg
 public/assets/images/auth-providers/stfc.svg
 public/assets/images/auth-providers/surfsara.png
 public/assets/images/auth-providers/unitedid.png
+public/assets/images/auth-providers/westlife.svg
 public/assets/images/brand-logo.svg
 public/assets/images/index/for-researchers.svg
 public/assets/images/index/join-onedata-map.svg

@@ -33,6 +33,12 @@ export default [{
     iconType: 'svg',
     iconName: 'elixir'
   },
+  { 
+    type: 'westlife',
+    name: 'WestLife',
+    iconType: 'svg',
+    iconName: 'westlife' 
+  },
   {
     type: 'cern',
     name: 'CERN (eduGAIN)',

@@ -40,6 +40,18 @@ export default [{
     iconName: 'westlife' 
   },
   {
+    type: 'deep',
+    name: 'Deep Hybrid Datacloud',
+    iconType: 'svg',
+    iconName: 'deep'
+  },
+  {
+    type: 'xdc',
+    name: 'Extreme Datacloud',
+    iconType: 'svg',
+    iconName: 'xdc'
+  },
+  {
     type: 'cern',
     name: 'CERN (eduGAIN)',
     iconType: 'svg',
